@@ -1,9 +1,6 @@
 VMaker
 ===
-
 VMaker - Keymaker for VMware Products.
-No need for money, just `Generate`!
-
 
 ---
 ![License](https://img.shields.io/badge/license-AGPL-brightgreen.svg?longCache=true&style=flat-square) ![build](https://img.shields.io/badge/build-passing-brightgreen.svg?longCache=true&style=flat-square) ![usage](https://img.shields.io/badge/usage-VMware%20Products-green.svg?longCache=true&style=flat-square)
