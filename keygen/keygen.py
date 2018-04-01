@@ -1,0 +1,7 @@
+print ("Bingo!")
+print ("")
+print ("You got it, yes, i'm a keygen for this April Fool's Day.")
+print ("Just enjoy your holiday and we are sure there is no such kind of keymaker/kg.")
+print ("")
+print ("Dr.Thril/ZWT")
+print ("2o18.4.1")
